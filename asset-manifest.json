@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b2d57da.chunk.css",
-    "main.js": "/static/js/main.24c6453b.chunk.js",
-    "main.js.map": "/static/js/main.24c6453b.chunk.js.map",
+    "main.css": "/static/css/main.8158755f.chunk.css",
+    "main.js": "/static/js/main.4dc4ce1c.chunk.js",
+    "main.js.map": "/static/js/main.4dc4ce1c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dd362f59.js",
     "runtime-main.js.map": "/static/js/runtime-main.dd362f59.js.map",
     "static/js/2.b6f1b213.chunk.js": "/static/js/2.b6f1b213.chunk.js",
     "static/js/2.b6f1b213.chunk.js.map": "/static/js/2.b6f1b213.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3b2d57da.chunk.css.map": "/static/css/main.3b2d57da.chunk.css.map",
+    "static/css/main.8158755f.chunk.css.map": "/static/css/main.8158755f.chunk.css.map",
     "static/js/2.b6f1b213.chunk.js.LICENSE.txt": "/static/js/2.b6f1b213.chunk.js.LICENSE.txt",
     "static/media/style.sass": "/static/media/LabGrotesque-500.1713e506.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.dd362f59.js",
     "static/js/2.b6f1b213.chunk.js",
-    "static/css/main.3b2d57da.chunk.css",
-    "static/js/main.24c6453b.chunk.js"
+    "static/css/main.8158755f.chunk.css",
+    "static/js/main.4dc4ce1c.chunk.js"
   ]
 }
